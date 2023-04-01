@@ -1,4 +1,4 @@
-//Creating custom functions
+//Creating custom functions with integers and then add the two function arguments and multiply the result by five.
 function name_mau(numb1, numb2){
     let bright = numb1+numb2;
     let cat = bright *5;
@@ -12,6 +12,7 @@ function name_mau(numb1, numb2){
     let bread = name_mau(15,12)
     
     
+    //Function argument expected to be string and the function will return true if the string length is >10.
     
     function string(food){
         if(food > 10){
